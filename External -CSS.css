@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+}
+body{
+    
+     
+    min-height: 100vh;
+    background: linear-gradient(#a3f9ff 0%,#f877dc 100%);
+}
+ 
+#pic{
+    color:yellowgreen;
+    font-size: 80px;
+}
+#pac{
+    color:royalblue;
+    font-size:80px;
+}
+#pec{
+    color:brown;
+    font-size: 80px;
+}
+ #aic{
+    color:blueviolet;
+ }
