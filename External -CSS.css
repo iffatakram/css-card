@@ -8,21 +8,68 @@ body{
     
      
     min-height: 100vh;
-    background: linear-gradient(#a3f9ff 0%,#f877dc 100%);
+    background: linear-gradient(#ffd4a34d 0%,#77c9f8c5 100%);
 }
  
 #pic{
-    color:yellowgreen;
-    font-size: 80px;
+    color:purple;
+    font-size: 30px;
 }
 #pac{
-    color:royalblue;
-    font-size:80px;
+    color:tomato;
+    font-size:50px;
+      word-spacing: ;
 }
 #pec{
     color:brown;
-    font-size: 80px;
+    font-size: 30px;
+    
 }
+ #kl{
+    color:tomato;
+    font-size:30px;
+ }
  #aic{
-    color:blueviolet;
+    color:brown;
+    font-size:30px;
+ }
+ #hl{
+    color:tomato;
+ }
+ #pl{
+   background-color:tomato;
+   color:white;
+ }
+ #ol{
+    color:#f87;
+    font-size: 18px;
+ }
+ #m{
+    color:purple;
+    font-size: 30px;
+ }
+ #b{
+    color:purple;
+    font-size: 30px;
+ }
+ #w{
+    color:purple;
+    font-size: 30px;
+ }
+ #wok{
+    color:purple;
+ }
+ #school{
+    color:steelblue;
+ }
+ #ban{
+    background-color:powderblue;
+ }
+ #wan{
+    length: 20px;
+    width: 10px;
+ }
+ #ri{
+    class:circular_image;
+    border-radius:70%; 
  }
