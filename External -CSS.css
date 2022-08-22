@@ -8,13 +8,10 @@ body{
     
      
     min-height: 100vh;
-    background: linear-gradient(#ffd4a34d 0%,#77c9f8c5 100%);
-}
- 
-#pic{
-    color:purple;
-    font-size: 30px;
-}
+
+      background-image:radial-gradient(rgb(255, 119, 216),#a1c4fd,#FFBBBB );
+       
+    }
 #pac{
     color:tomato;
     font-size:50px;
@@ -44,21 +41,8 @@ body{
     color:#f87;
     font-size: 18px;
  }
- #m{
-    color:purple;
-    font-size: 30px;
- }
- #b{
-    color:purple;
-    font-size: 30px;
- }
- #w{
-    color:purple;
-    font-size: 30px;
- }
- #wok{
-    color:purple;
- }
+  
+  
  #school{
     color:steelblue;
  }
@@ -70,6 +54,10 @@ body{
     width: 10px;
  }
  #ri{
-    class:circular_image;
-    border-radius:70%; 
+    class: circular_image;
+    border-radius:50%; 
+ }
+ #fit{
+   color:#f36;
+   font-size: 100px;
  }
