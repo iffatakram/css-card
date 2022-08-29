@@ -12,6 +12,9 @@ body{
       background-image:radial-gradient(rgb(255, 119, 216),#a1c4fd,#FFBBBB );
        
     }
+    #nw{
+      flex-wrap:nowrap;
+    }
 #pac{
     color:tomato;
     font-size:50px;
@@ -55,10 +58,10 @@ body{
  }
  #ri{
     class: circular_image;
-    border-radius:50%; 
+    border-radius:10%; 
  }
  #fit{
-   color:#f36;
+   color:black;
    font-size: 100px;
  }
  
