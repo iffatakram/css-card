@@ -56,10 +56,8 @@ body{
     length: 20px;
     width: 10px;
  }
- #ri{
-    class: circular_image;
-    border-radius:10%; 
- }
+  
+ 
  #fit{
    color:black;
    font-size: 100px;
