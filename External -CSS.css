@@ -9,7 +9,7 @@ body{
      
     min-height: 100vh;
 
-      background-image:radial-gradient(rgb(255, 119, 216),#a1c4fd,#FFBBBB );
+      background-image:radial-gradient( #a1c4fd , #FFBBBB );
        
     }
     #nw{
@@ -34,14 +34,14 @@ body{
     font-size:30px;
  }
  #hl{
-    color:tomato;
+    color:brown;
  }
  #pl{
-   background-color:tomato;
+   background-color:brown;
    color:white;
  }
  #ol{
-    color:#f87;
+    color:brown;
     font-size: 18px;
  }
   
